@@ -5,11 +5,11 @@
 <h1 align="center">AI Interview System</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues/aryasoni98/AI-Interview" title="logo">
-  <img src="https://img.shields.io/github/issues-pr/aryasoni98/AI-Interview" title="logo">
-  <img src="https://img.shields.io/github/forks/aryasoni98/AI-Interview" title="logo">
-  <img src="https://img.shields.io/github/stars/aryasoni98/AI-Interview" title="logo">
-  <img src="https://img.shields.io/github/license/aryasoni98/AI-Interview" title="logo">
+  <img src="https://img.shields.io/github/issues/kaushikpranay/AI-Interview-Project-OIST" title="logo">
+  <img src="https://img.shields.io/github/issues-pr/kaushikpranay/AI-Interview-Project-OIST" title="logo">
+  <img src="https://img.shields.io/github/forks/kaushikpranay/AI-Interview-Project-OIST" title="logo">
+  <img src="https://img.shields.io/github/stars/kaushikpranay/AI-Interview-Project-OIST" title="logo">
+  <img src="https://img.shields.io/github/license/kaushikpranay/AI-Interview-Project-OIST" title="logo">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Our aim is to develop a model able to provide a live sentiment analysis with a v
 
 ---
 
-### Video Analysis - [Read More . . .](https://github.com/aryasoni98/AI-Interview/wiki/Video-Analysis)
+### Video Analysis - [Read More . . .](https://github.com/kaushikpranay/AI-Interview-Project-OIST/wiki/Video-Analysis)
 <br>
 <p>
     <img src="./Images/Video.png" width="600" height="300"/>
@@ -60,7 +60,7 @@ Our aim is to develop a model able to provide a live sentiment analysis with a v
 
 ---
 
-### Audio Analysis - [Read More . . . ](https://github.com/aryasoni98/AI-Interview/wiki/Audio-Analysis)
+### Audio Analysis - [Read More . . . ](https://github.com/kaushikpranay/AI-Interview-Project-OIST/wiki/Audio-Analysis)
 <br>
 <p>
     <img src="./Images/Audio.png" width="600" height="300"/>
@@ -68,7 +68,7 @@ Our aim is to develop a model able to provide a live sentiment analysis with a v
 
 ---
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/aryasoni98/AI-Interview)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/kaushikpranay/AI-Interview-Project-OIST)
 
 ---
 
@@ -117,11 +117,11 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
 <table>
  	<tr>
  		<td align="center">
- 			<a href="https://github.com/aryasoni98">
+ 			<a href="https://github.com/kaushikpranay">
  				<img src="https://img.icons8.com/nolan/64/github.png" width="64px" alt="" />
  			</a>
  				<br />
-			 <a href="https://github.com/aryasoni98/AI-Interview/discussions">
+			 <a href="https://github.com/kaushikpranay/AI-Interview-Project-OIST/discussions">
  		   		Github Discussions
  	    	</a>
  		</td>
@@ -137,20 +137,38 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
 <table>
  	<tr>
  		<td align="center">
- 			<a href="https://github.com/aryasoni98">
- 				<img src="https://avatars.githubusercontent.com/u/18515597?s=400&u=4ecfe979f461f79e86a9c7a26183c1327da5d2bc&v=4" width="100px" alt="" />
- 				<br /> <sub><b>Arya Soni</b></sub>
+ 			<a href="https://github.com/meghnagupta-2002">
+ 				<img src="https://avatars.githubusercontent.com/u/" width="100px" alt="" />
+ 				<br /> <sub><b>Meghna Gupta</b></sub>
  			</a>
- 				<br /> <a href="https://github.com/aryasoni98">
+ 				<br /> <a href="https://github.com/meghnagupta-2002">
  		   			Admin
  	   		 </a>
  		</td>
 		<td align="center">
- 			<a href="https://github.com/shubhigupta991">
- 				<img src="https://avatars.githubusercontent.com/u/58917829?s=400&u=a792b01ef12ba7f84049ee3382f256738dc0a0de&v=4" width="100px" alt="" />
- 				<br /> <sub><b>Shubhangi Gupta</b></sub>
+ 			<a href="https://github.com/kaushikpranay">
+ 				<img src="https://avatars.githubusercontent.com/u/" width="100px" alt="" />
+ 				<br /> <sub><b>Kaushik Pranay</b></sub>
  			</a>
-				<br /><a href="https://github.com/shubhigupta991">
+				<br /><a href="https://github.com/kaushikpranay">
+					Member
+ 	    	</a>
+ 		</td>
+ 		<td align="center">
+ 			<a href="#">
+ 				<img src="https://avatars.githubusercontent.com/u/" width="100px" alt="" />
+ 				<br /> <sub><b>Ankit Sinha</b></sub>
+ 			</a>
+				<br /><a href="#">
+					Member
+ 	    	</a>
+ 		</td>
+ 		<td align="center">
+ 			<a href="https://github.com/amrishasingh">
+ 				<img src="https://avatars.githubusercontent.com/u/" width="100px" alt="" />
+ 				<br /> <sub><b>Amrisha Singh</b></sub>
+ 			</a>
+				<br /><a href="https://github.com/amrishasingh">
 					Member
  	    	</a>
  		</td>
@@ -159,20 +177,6 @@ The web app has been **Dockerized** ( **Application && WebApp Folder** )
 </table>
 
 ---
-
-### Contributors 🌟
-
-#### Thanks goes to these wonderful people ✨✨:
-
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/aryasoni98/AI-Interview/graphs/contributors">
-			<img src="https://contrib.rocks/image?repo=aryasoni98/AI-Interview" />
-			</a>
-		</td>
-	</tr>
-</table>
 
 </div>
 
